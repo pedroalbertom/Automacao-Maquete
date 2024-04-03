@@ -1,2 +1,2 @@
-# Automacao-Maquete
-Projeto de entrada ao estágio de IoT, automação de uma maquete utilizando MCU's
+# ProjetoKratos
+Projeto de automatização residencial, projeto de iniciação ao estágio em IoT
